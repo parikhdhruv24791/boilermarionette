@@ -1,0 +1,20 @@
+{
+  "name": "ABC",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "underscore": "latest",
+    "backbone": "latest",
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "modernizr": "latest",
+    "marionette": "latest",
+    "requirejs-tpl": "*",
+    "iscroll": "latest"
+  },
+
+  "devDependencies": {},
+  "resolutions": {
+    "backbone": "latest"
+  }
+}
